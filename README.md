@@ -1,1 +1,1 @@
-# EEG-Feature-Extraction-Toolbox
+# Jx-EEGT : An EEG-Feature-Extraction-Toolbox
