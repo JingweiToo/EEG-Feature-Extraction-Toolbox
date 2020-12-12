@@ -1,1 +1,1 @@
-# Jx-EEGT : An EEG-Feature-Extraction-Toolbox
+# Jx-EEGT : Electroencephalogram ( EEG ) Feature Extraction Toolbox
