@@ -10,7 +10,7 @@
 
 ## Introduction
 
-* This toolbox offers more than 30 types of EEG features 
+* This toolbox offers 30 types of EEG features 
 * The < A_Main.m file > shows how the feature extraction methods can be applied using generated sample signal. 
 
 
