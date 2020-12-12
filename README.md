@@ -5,7 +5,7 @@
 >  --- [Jingwei Too](https://jingweitoo.wordpress.com/)
 ---
 
-![Wheel]()
+![Wheel](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/0f34f528-fbf4-48ca-84e1-bc1080a430ad/0e019644-3a97-4f4a-b739-0ef1d84f01db/images/1607766116.JPG)
 
 
 ## Introduction
