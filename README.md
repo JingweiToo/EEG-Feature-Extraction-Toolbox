@@ -131,7 +131,7 @@ feat = jfeeg('ar', X);
 | 05  | 'var'        | Variance                                     | -                       |
 | 04  | 'md'         | Median Value                                 | -                       |
 | 03  | 'ar'         | Auto-Regressive Model                        | opts.order = 4          |
-| 02  | 'max'        | Maxmimum Value                               | -                       |
+| 02  | 'max'        | Maximum Value                                | -                       |
 | 01  | 'min'        | Minimum Value                                | -                       |
 
 
