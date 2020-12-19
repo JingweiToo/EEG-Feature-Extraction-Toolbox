@@ -96,9 +96,9 @@ feat = jfeeg('ar', X);
 ```
 * *Note* : You must set the sampling frequency ( fs ) since there is no default setting for it
 * You can use *opts* to set the parameter
-    + alpha : constant
-    + order : the number of orders
-    + fs    : sampling frequency 
+    + *alpha* : constant
+    + *order* : the number of orders
+    + *fs*    : sampling frequency 
 
 
 | No. | Abbreviation | Name                                         |  Parameter ( default )  |
