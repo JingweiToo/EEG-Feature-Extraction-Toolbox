@@ -60,7 +60,6 @@ feat = [f1, f2, f3];
 
 % Display features
 disp(feat)
-
 ```
 
 
@@ -84,7 +83,6 @@ feat = [f1, f2];
 
 % Display features
 disp(feat)
-
 ```
 
 
